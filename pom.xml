@@ -20,7 +20,7 @@
 	</repository>
         </distributionManagement>
     
-	
+	<!-- Demo -->
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
