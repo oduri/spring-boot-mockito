@@ -6,7 +6,7 @@
 	<groupId>com.example</groupId>
 	<artifactId>spring-boot-mockito</artifactId>
 	<version>0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>spring-boot-mockito</name>
 	<description>spring boot jdbc Template</description>
 	
@@ -14,7 +14,7 @@
 	<distributionManagement>
 	<repository>
 	      <id>deploymentRepo</id>
-	      <url>http://54.161.20.206:8081/repository/hcltraining/</url>
+	      <url>http://54.84.149.210:8081/repository/hcltraining/</url>
 	</repository>
         </distributionManagement>
     
