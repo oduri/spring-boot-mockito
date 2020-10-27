@@ -16,15 +16,7 @@
 	      <id>deploymentRepo</id>
 	      <url>http://54.84.149.210:8081/repository/hcltraining/</url>
 	</repository>
-        </distributionManagement>
-    
-        <servers>
-          <server>
-          <id>deploymentRepo</id>
-          <username>admin</username>
-          <password>admin123</password>
-          </server>
-        </servers>
+        </distributionManagement>    
 	
 	<parent>
 		<groupId>org.springframework.boot</groupId>
